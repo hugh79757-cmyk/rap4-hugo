@@ -60,18 +60,10 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 서울 동작구는 활발한 전세 및 월세 거래가 이루어지고 있는 지역입니다. 주요 단지의 전세 추정가는 50,400만원에서 123,500만원 사이로 다양하게 형성되어 있습니다. 전세 계약 시 반드시 체크해야 할 사항들을 점검하고, 안정적인 주거 환경을 조성하는 것이 중요합니다.
 
 ---
-> **이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.**
-
-
 <div style="margin:24px 0;padding:16px 20px;background:#f0f7ff;border-radius:12px;border:1px solid #d0e3ff;text-align:center;">
   <p style="margin:0 0 10px 0;font-size:1.05rem;font-weight:600;">📍 청년임대주택 주변 지도로 확인하기</p>
   <a href="https://map.naver.com/v5/search/%EC%B2%AD%EB%85%84%EC%9E%84%EB%8C%80%EC%A3%BC%ED%83%9D%20%EC%A0%84%EC%84%B8%20%EB%A7%A4%EB%AC%BC" target="_blank" rel="nofollow" style="display:inline-block;padding:10px 24px;background:#03C75A;color:white;border-radius:8px;text-decoration:none;font-weight:600;">네이버지도에서 보기</a>
 </div>
----
-
-> 이 글은 국토교통부 전월세 공공데이터를 기반으로 작성되었습니다. 계약 전 반드시 등기부등본을 확인하고, 전세보증보험 가입을 권장합니다.
-
-> 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
 
 ---
 
@@ -80,16 +72,16 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 - [샤오미 공기청정기 4 Pro](https://link.coupang.com/a/cmDN7k)
 - [미니 드럼세탁기 5kg](https://link.coupang.com/a/cmDN8l)
 
-> **이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.**
+---
 
+---
+
+> 이 글은 국토교통부 전월세 공공데이터를 기반으로 작성되었습니다. 계약 전 반드시 등기부등본을 확인하고, 전세보증보험 가입을 권장합니다.
+
+> 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
 
 ## 함께 읽으면 좋은 글
 
 - [2026년 03월 서울 강남구 임대차계약서 분석](/posts/2026년-03월-서울-강남구-임대차계약서-분석/)
 - [2026년 03월 서울 마포구 임대차 3법 핵심 정리](/posts/2026년-03월-서울-마포구-임대차-3법-핵심-정리/)
-- [2026년 03월 서울 강남구 LH임대주택 시세 분석](/posts/2026년-03월-서울-강남구-lh임대주택-시세-분석/)
-
-
----
-
-> 이 글은 국토교통부 실거래가 공공데이터를 기반으로 작성되었습니다. 투자 판단의 책임은 본인에게 있으며, 최신 정보는 [국토교통부 실거래가 공개시스템](https://rt.molit.go.kr)에서 확인하세요.
+- [2026년 03월 서울 관악구 청년임대주택 전세 및 월세 시장 분석](/posts/2026년-03월-서울-관악구-청년임대주택-전세-및-월세-시장-분석/)
