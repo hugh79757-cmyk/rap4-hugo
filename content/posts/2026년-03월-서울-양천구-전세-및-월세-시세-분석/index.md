@@ -53,7 +53,6 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 ### 5. 거래 시 신뢰할 수 있는 중개인 활용
 신뢰할 수 있는 부동산 중개인을 통해 거래하는 것이 전세사기를 예방하는 데 큰 도움이 됩니다.
 
-
 <div style="margin:28px 0;padding:18px 22px;background:linear-gradient(135deg,#f8f9ff 0%,#e8f4fd 100%);border-radius:14px;border-left:4px solid #3182ce;">
   <p style="margin:0 0 6px 0;font-size:0.85rem;color:#718096;">📌 놓치면 아쉬운 글</p>
   <a href="/posts/2026년-03월-서울-동작구-전세월세-시장-분석---청년임대주택/" style="font-size:1.05rem;font-weight:600;color:#2d3748;text-decoration:none;">2026년 03월 서울 동작구 전세·월세 시장 분석 - 청년임대주택</a>
@@ -64,17 +63,6 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 서울 양천구의 전세 및 월세 시장은 활발하게 움직이고 있습니다. 주요 단지의 전세가는 매매가의 55%에서 65%를 기준으로 추정할 수 있으며, 월세 환산가는 연 4%를 기준으로 계산했습니다. 전세 계약 시 반드시 확인해야 할 체크리스트를 통해 안전한 거래를 하시기 .
 
 ---
-
-## 자취·이사 준비 추천 가전
-
-- [쿠쿠 아이편한 스텐 초음파 가습기 큐브 4L](https://link.coupang.com/a/eaYLul) — 81,140원
-- [원터치 접이식 다용도 이동식 수납선반, 화이트, 5단](https://link.coupang.com/a/eaYLyt) — 42,420원---
-
----
-
-> 이 글은 국토교통부 전월세 공공데이터를 기반으로 작성되었습니다. 계약 전 반드시 등기부등본을 확인하고, 전세보증보험 가입을 권장합니다.
-
-> 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
 
 ## 함께 읽으면 좋은 글
 
