@@ -68,13 +68,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 ## 자취·이사 준비 추천 가전
 
 - [쿠쿠 아이편한 스텐 초음파 가습기 큐브 4L](https://link.coupang.com/a/eaYLul) — 81,140원
-- [원터치 접이식 다용도 이동식 수납선반, 화이트, 5단](https://link.coupang.com/a/eaYLyt) — 42,420원
-<div style="margin:24px 0;padding:16px 20px;background:#f0f7ff;border-radius:12px;border:1px solid #d0e3ff;text-align:center;">
-  <p style="margin:0 0 10px 0;font-size:1.05rem;font-weight:600;">📍 전세사기 예방 체크리스트 주변 지도로 확인하기</p>
-  <a href="https://map.naver.com/v5/search/%EC%A0%84%EC%84%B8%EC%82%AC%EA%B8%B0%20%EC%98%88%EB%B0%A9%20%EC%B2%B4%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%8A%B8%20%EC%A0%84%EC%84%B8%20%EB%A7%A4%EB%AC%BC" target="_blank" rel="nofollow" style="display:inline-block;padding:10px 24px;background:#03C75A;color:white;border-radius:8px;text-decoration:none;font-weight:600;">네이버지도에서 보기</a>
-</div>
-
----
+- [원터치 접이식 다용도 이동식 수납선반, 화이트, 5단](https://link.coupang.com/a/eaYLyt) — 42,420원---
 
 ---
 

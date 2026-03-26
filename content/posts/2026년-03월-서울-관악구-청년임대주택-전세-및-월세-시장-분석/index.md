@@ -60,13 +60,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 ## 자취·이사 준비 추천 가전
 
 - [LG전자 디오스 인덕션 3구 방문설치](https://link.coupang.com/a/ea4zvx) — 744,790원
-- [가정용 데스크탑 LED 스마트 스크린 즉열식 전기포트 5단 수온 3단 수량 탁상용 소형 전기포트, 흰색](https://link.coupang.com/a/ea4zyF) — 167,800원
-<div style="margin:24px 0;padding:16px 20px;background:#f0f7ff;border-radius:12px;border:1px solid #d0e3ff;text-align:center;">
-  <p style="margin:0 0 10px 0;font-size:1.05rem;font-weight:600;">📍 청년임대주택 주변 지도로 확인하기</p>
-  <a href="https://map.naver.com/v5/search/%EC%B2%AD%EB%85%84%EC%9E%84%EB%8C%80%EC%A3%BC%ED%83%9D%20%EC%A0%84%EC%84%B8%20%EB%A7%A4%EB%AC%BC" target="_blank" rel="nofollow" style="display:inline-block;padding:10px 24px;background:#03C75A;color:white;border-radius:8px;text-decoration:none;font-weight:600;">네이버지도에서 보기</a>
-</div>
-
----
+- [가정용 데스크탑 LED 스마트 스크린 즉열식 전기포트 5단 수온 3단 수량 탁상용 소형 전기포트, 흰색](https://link.coupang.com/a/ea4zyF) — 167,800원---
 
 ---
 

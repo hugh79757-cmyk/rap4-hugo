@@ -59,13 +59,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 
 서울 동작구는 활발한 전세 및 월세 거래가 이루어지고 있는 지역입니다. 주요 단지의 전세 추정가는 50,400만원에서 123,500만원 사이로 다양하게 형성되어 있습니다. 전세 계약 시 반드시 체크해야 할 사항들을 점검하고, 안정적인 주거 환경을 조성하는 것이 중요합니다.
 
----
-<div style="margin:24px 0;padding:16px 20px;background:#f0f7ff;border-radius:12px;border:1px solid #d0e3ff;text-align:center;">
-  <p style="margin:0 0 10px 0;font-size:1.05rem;font-weight:600;">📍 청년임대주택 주변 지도로 확인하기</p>
-  <a href="https://map.naver.com/v5/search/%EC%B2%AD%EB%85%84%EC%9E%84%EB%8C%80%EC%A3%BC%ED%83%9D%20%EC%A0%84%EC%84%B8%20%EB%A7%A4%EB%AC%BC" target="_blank" rel="nofollow" style="display:inline-block;padding:10px 24px;background:#03C75A;color:white;border-radius:8px;text-decoration:none;font-weight:600;">네이버지도에서 보기</a>
-</div>
-
----
+------
 
 ## 자취·원룸 필수 아이템
 

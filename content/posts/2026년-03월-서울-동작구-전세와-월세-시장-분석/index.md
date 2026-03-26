@@ -75,16 +75,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 - [마이디어 통돌이 세탁기 3.8kg, MAR03W38/WK-KR, 화이트](https://link.coupang.com/a/eba1xO) — 200,990원
 - [RichMagic PTC 가정용 순간 발열 리모컨 히터 욕실 벽걸이형 히터 터치 패널 12시간 타이머 3in1 휴대형 히터 다용도 전기히터, 흰색](https://link.coupang.com/a/eba1Am) — 114,800원
 
-> **이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.**
-
-
-<div style="margin:24px 0;padding:16px 20px;background:#f0f7ff;border-radius:12px;border:1px solid #d0e3ff;text-align:center;">
-  <p style="margin:0 0 10px 0;font-size:1.05rem;font-weight:600;">📍 단기임대 주변 지도로 확인하기</p>
-  <a href="https://map.naver.com/v5/search/%EB%8B%A8%EA%B8%B0%EC%9E%84%EB%8C%80%20%EC%A0%84%EC%84%B8%20%EB%A7%A4%EB%AC%BC" target="_blank" rel="nofollow" style="display:inline-block;padding:10px 24px;background:#03C75A;color:white;border-radius:8px;text-decoration:none;font-weight:600;">네이버지도에서 보기</a>
-</div>
-
-
-## 함께 읽으면 좋은 글
+> **이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.**## 함께 읽으면 좋은 글
 
 - [2026년 03월 서울 강남구 LH임대주택 시세 분석](/posts/2026년-03월-서울-강남구-lh임대주택-시세-분석/)
 - [2026년 03월 서울 마포구 임대차 3법 핵심 정리](/posts/2026년-03월-서울-마포구-임대차-3법-핵심-정리/)
