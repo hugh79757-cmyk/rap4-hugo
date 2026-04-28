@@ -1,6 +1,8 @@
 baseURL = "https://rent.informationhot.kr/"
 googleAnalytics = "G-75ZYJGQQ8R"
 languageCode = "ko"
+defaultContentLanguage = "ko"
+defaultContentLanguageInSubdir = false
 title = "전세월세 리포트"
 theme = "blowfish"
 enableRobotsTXT = true

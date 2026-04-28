@@ -1,0 +1,10 @@
+languageCode = "ko"
+languageName = "한국어"
+weight = 1
+title = "전세월세 리포트"
+
+[params]
+  displayName = "KO"
+  isoCode = "ko"
+  dateFormat = "2006년 1월 2일"
+  description = "전월세 실거래가 분석과 임대차 법률 가이드"
