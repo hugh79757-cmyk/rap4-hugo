@@ -1,0 +1,73 @@
+baseURL = "https://rent.informationhot.kr/"
+googleAnalytics = "G-75ZYJGQQ8R"
+languageCode = "ko"
+title = "전세월세 리포트"
+theme = "blowfish"
+enableRobotsTXT = true
+
+[pagination]
+  pagerSize = 20
+
+[params]
+  colorScheme = "congo"
+  description = "전월세 실거래가 분석과 임대차 법률 가이드"
+  mainSections = ["posts"]
+  enableSearch = true
+
+  [params.homepage]
+    layout = "profile"
+    showRecent = true
+    recentLimit = 12
+
+  [params.article]
+  showWordCount = false
+    showDate = true
+    showReadingTime = false
+    showAuthor = false
+    showHero = true
+    heroStyle = "background"
+    showSummary = true
+    sharingLinks = ["facebook", "x-twitter", "threads"]
+
+  [params.list]
+  showWordCount = false
+    showHero = true
+    heroStyle = "background"
+    showSummary = true
+    groupByYear = false
+
+  [params.taxonomy]
+    showTermCount = true
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  section = ["HTML", "RSS"]
+
+[sitemap]
+  changefreq = "daily"
+  priority = 0.7
+  filename = "sitemap.xml"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[[menus.main]]
+  name = "글 목록"
+  pageRef = "posts"
+  weight = 10
+
+[[menus.main]]
+  name = "카테고리"
+  pageRef = "categories"
+  weight = 20
+
+[[menus.main]]
+  name = "태그"
+  pageRef = "tags"
+  weight = 30
