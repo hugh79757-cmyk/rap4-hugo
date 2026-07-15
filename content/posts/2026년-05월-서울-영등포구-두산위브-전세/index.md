@@ -23,11 +23,11 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 
 전세 계약 전 반드시 확인해야 할 5가지:
 
-1. **등기부등본 확인**: 계약 당일 다시 발급받아 근저당과 소유권 이전 여부를 체크하세요.
-2. **깡통전세 판별**: 매매가 대비 전세가 비율이 80% 이상인지 확인하여 위험 요소를 파악하세요.
-3. **전세보증보험**: HUG 또는 SGI에 가입하여 보증서를 발급받고, 보증료를 미리 계산하세요.
-4. **확정일자**: 전입신고와 확정일자를 같은 날 처리하여 법적 보호를 받으세요.
-5. **임대차 3법 이해**: 계약갱신청구권과 전월세상한제를 숙지하여 권리를 보호하세요.
+1. <strong>등기부등본 확인</strong>: 계약 당일 다시 발급받아 근저당과 소유권 이전 여부를 체크하세요.
+2. <strong>깡통전세 판별</strong>: 매매가 대비 전세가 비율이 80% 이상인지 확인하여 위험 요소를 파악하세요.
+3. <strong>전세보증보험</strong>: HUG 또는 SGI에 가입하여 보증서를 발급받고, 보증료를 미리 계산하세요.
+4. <strong>확정일자</strong>: 전입신고와 확정일자를 같은 날 처리하여 법적 보호를 받으세요.
+5. <strong>임대차 3법 이해</strong>: 계약갱신청구권과 전월세상한제를 숙지하여 권리를 보호하세요.
 
 영등포구 두산위브의 전세 및 월세 시장은 안정적인 수요를 보이고 있으며, 향후 시장 동향을 지속적으로 주시할 필요가 있습니다. 전세 계약 시에는 체크리스트를 통해 안전한 거래를 진행하시기 .
 
@@ -39,7 +39,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 - [LG전자 퓨리케어 360도 Hit 공기청정기 62㎡](https://link.coupang.com/a/eFje33) — 351,160원
 - [필모어 9세대 2L 초음파 듀얼 가습기 무드등](https://link.coupang.com/a/eFje59) — 39,000원
 
-> **이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.**
+> <strong>이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</strong>
 
 ## 함께 읽으면 좋은 글
 <div style="margin:24px 0; border-radius:12px; overflow:hidden; box-shadow:0 2px 8px rgba(0,0,0,0.08); border:1px solid #e8ecf0;"><a href="https://finance.techpawz.com/posts/경남은행-70-적금-1천만-원-vs-5천만-원-예치-시-12개월-후-실수령액은/" target="_blank" rel="noopener" style="display:block; text-decoration:none; color:inherit;"><div style="background:#f8f9fa; padding:14px 18px; display:flex; align-items:flex-start; gap:14px;"><span style="font-size:26px; line-height:1; flex-shrink:0;">🏦</span><div style="flex:1; min-width:0;"><p style="margin:0 0 4px 0; font-size:12px; color:#6b7280; letter-spacing:0.5px;">금융 정보</p><p style="margin:0; font-size:15px; font-weight:600; color:#111827; line-height:1.4; overflow:hidden; text-overflow:ellipsis; display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical;">경남은행 7.0% 적금, 1천만 원 vs 5천만 원 예치 시 12개월 후 실수령액은?</p></div><span style="font-size:13px; color:#9ca3af; flex-shrink:0; align-self:center;">→</span></div></a></div>

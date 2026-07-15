@@ -27,11 +27,11 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 
 전세 계약을 고려할 때는 몇 가지 필수 체크리스트를 반드시 확인해야 합니다. 이를 통해 안전하고 원활한 계약을 진행할 수 있습니다.
 
-1. **등기부등본 확인**: 해당 부동산의 소유자와 권리관계를 확인하여, 전세권 설정이 가능한지 점검해야 합니다.
-2. **전세보증보험 가입**: HUG(주택도시보증공사)나 SGI(상가임대보증보험) 등을 통해 전세보증보험에 가입하여, 임대인의 파산이나 도산에 대비해야 합니다.
-3. **확정일자 받기**: 계약서에 확정일자를 받아 두면, 후에 발생할 수 있는 분쟁을 예방할 수 있습니다.
-4. **전입신고**: 전입신고를 통해 임차인의 거주 사실을 공식적으로 기록하여 법적 보호를 받을 수 있습니다.
-5. **임대차계약서 작성**: 계약서 작성 시, 임대료, 보증금, 계약 기간 등을 명확히 기재하여 서로의 권리와 의무를 분명히 해야 합니다.
+1. <strong>등기부등본 확인</strong>: 해당 부동산의 소유자와 권리관계를 확인하여, 전세권 설정이 가능한지 점검해야 합니다.
+2. <strong>전세보증보험 가입</strong>: HUG(주택도시보증공사)나 SGI(상가임대보증보험) 등을 통해 전세보증보험에 가입하여, 임대인의 파산이나 도산에 대비해야 합니다.
+3. <strong>확정일자 받기</strong>: 계약서에 확정일자를 받아 두면, 후에 발생할 수 있는 분쟁을 예방할 수 있습니다.
+4. <strong>전입신고</strong>: 전입신고를 통해 임차인의 거주 사실을 공식적으로 기록하여 법적 보호를 받을 수 있습니다.
+5. <strong>임대차계약서 작성</strong>: 계약서 작성 시, 임대료, 보증금, 계약 기간 등을 명확히 기재하여 서로의 권리와 의무를 분명히 해야 합니다.
 
 <div style="margin:28px 0;padding:18px 22px;background:linear-gradient(135deg,#f8f9ff 0%,#e8f4fd 100%);border-radius:14px;border-left:4px solid #3182ce;">
   <p style="margin:0 0 6px 0;font-size:0.85rem;color:#718096;">📌 놓치면 아쉬운 글</p>
@@ -49,7 +49,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 - [마이디어 통돌이 세탁기 3.8kg, MAR03W38/WK-KR, 화이트](https://link.coupang.com/a/edCOsO) — 200,990원
 - [수납선반 앵글선반 선반 책장 다용도선반 무볼트 조립식 베란다](https://link.coupang.com/a/edCOwa) — 44,900원
 
-> **이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.**
+> <strong>이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</strong>
 
 <div style="margin:24px 0;padding:16px 20px;background:#f0f7ff;border-radius:12px;border:1px solid #d0e3ff;text-align:center;">
   <p style="margin:0 0 10px 0;font-size:1.05rem;font-weight:600;">📍 임대사업자 주변 지도로 확인하기</p>

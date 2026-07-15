@@ -1,9 +1,7 @@
 baseURL = "https://rent.informationhot.kr/"
-googleAnalytics = "G-75ZYJGQQ8R"
 languageCode = "ko"
 title = "전세월세 리포트"
 theme = "blowfish"
-themesDir = "/Users/twinssn/Projects/shared-themes"
 enableRobotsTXT = true
 
 [pagination]
@@ -21,6 +19,8 @@ enableRobotsTXT = true
     recentLimit = 12
 
   [params.article]
+    relatedContentLimit = 6
+    showRelatedContent = true
   showWordCount = false
     showDate = true
     showReadingTime = false
@@ -58,6 +58,9 @@ enableRobotsTXT = true
     [markup.goldmark.renderer]
       unsafe = true
 
+    [markup.goldmark.extensions]
+      strikethrough = false
+
 [[menus.main]]
   name = "글 목록"
   pageRef = "posts"
@@ -72,3 +75,24 @@ enableRobotsTXT = true
   name = "태그"
   pageRef = "tags"
   weight = 30
+
+[related]
+  threshold = 0
+  toLower = false
+
+  [[related.indices]]
+    name = "tags"
+    weight = 100
+
+  [[related.indices]]
+    name = "categories"
+    weight = 100
+
+  [[related.indices]]
+    name = "series"
+    weight = 50
+
+  [[related.indices]]
+    name = "date"
+    weight = 10
+timeZone = "Asia/Seoul"
