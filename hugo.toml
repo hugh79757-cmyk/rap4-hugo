@@ -2,6 +2,7 @@ baseURL = "https://rent.informationhot.kr/"
 languageCode = "ko"
 title = "전세월세 리포트"
 theme = "blowfish"
+themesDir = "/Users/twinssn/Projects/shared-themes"
 enableRobotsTXT = true
 
 [pagination]
